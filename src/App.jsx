@@ -36,7 +36,9 @@ function App() {
          
       
           <section className="bg-[url('./assets/bg.png')] w-screen h-fit bg-cover">
-          <h1 className='font-head text-[25px] text-white p-8 text-center'>About</h1>
+          <div className='justify-center items-center flex'>
+          <h1 className='font-head text-[25px] text-white p-8 text-center '>About</h1>
+          </div>
           {/* <h1 className='font-head text-[25px] text-white p-12' >About</h1>
              */}
             <div className="grid grid-cols-1 md:grid-cols-2 place-items-center p-12 md:p-24 space-y-8">
@@ -64,7 +66,7 @@ function App() {
 
         
 <div className="grid grid-cols-1 place-items-center p-12 space-y-8">
-<h1 className='font-head text-[25px] text-white'>Tokenomics</h1>
+<h1 className='font-head text-[25px] text-white ' >Tokenomics</h1>
           <div className="grid grid-cols-1 md:grid-cols-3 place-items-center gap-10 md:p-12">
             <div className="bg-transparent p-4 text-white backdrop-blur-md justify-center items-center flex flex-col shadow-lg text-center rounded-2xl  w-80">
             <IoBriefcase size={40} className='text-white p-1 rounded-lg bg-gradient-to-r from-purple-500 to-blue-500' />
@@ -123,13 +125,13 @@ function App() {
       <section className="bg-[url('./assets/bg-1.png')] w-screen h-fit bg-cover">
         <div className="grid grid-cols-1 place-items-center gap-10 p-8">
             <div className="bg-gradient-to-r from-purple-500 to-blue-500 h-fit p-4 text-white backdrop-blur-md items-center flex flex-col
-             shadow-lg text-center rounded-2xl  w-[400px] border border-blue-400">
+             shadow-lg text-center rounded-2xl  w-96 border border-blue-400">
       
               <h1 className='font-head text-[20px]'>JOIN BOJ COMMUNITY</h1>
                 <p className='font-texts'>
                   Lorem ipsum dolor sit amet consectetur, adipisicing elit.
                 </p>
-                <a href="" className='bg-black px-6 py-3 my-3 rounded-xl'>JOIN</a>
+                <a href="" className='bg-black  px-6 py-3 my-3 rounded-xl'>JOIN</a>
             </div>
 
             
@@ -137,9 +139,12 @@ function App() {
       </section>
 
       <footer className="bg-[url('./assets/bg-4.png')] w-screen h-fit bg-cover p-6 text-white">
-        <div className="flex justify-center items-center">
-
-        <p className='text-center font-texts'>All rights Reserved</p>
+        <div className="flex flex-col justify-center items-center">
+            <div className='flex-row flex space-x-4 my-3'>
+            <FaTelegramPlane size={30} />
+                    <FaXTwitter size={30} />
+            </div>
+        <p className='text-center font-texts'>Book of Jeets. All rights Reserved 2024</p>
         </div>
       </footer>
     </>
