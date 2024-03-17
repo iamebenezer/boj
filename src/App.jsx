@@ -22,7 +22,7 @@ function App() {
                   <h1 className='font-head text-[25px]'>WELCOME TO BOOK OF <span className='text-purple-400 blink'>JEETS</span></h1>
                     </div>
                     <div className='text-white shadow-lg backdrop-blur-2xl p-6 rounded-3xl text-center'>
-                      <p className='font-texts text-[18px]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati dolorem ullam deleniti?</p>
+                      <p className='font-texts text-[18px]'>The next book that will give you the knowledge of 100X</p>
                     </div>
 
                     <div className="flex space-x-8  text-white">
@@ -48,12 +48,12 @@ function App() {
               </div>
               <div className=''>
               <div className='bg-white h-fit md:text-start text-center p-4 rounded-lg shadow-gray-800 shadow-sm'>
-                <p className='font-texts md:text-[20px]'>Lorem ipsum dolor sit amet consectetur
-                 adipisicing elit. Illum et error velit!</p>
+                <p className='font-texts md:text-[20px]'>Introducing “The Book of Jeet Tokens: Unveiling the Secrets to 100X Crypto Gains!” Dive into this satirical yet insightful guide where memes meet investments. Discover the whimsical world of meme tokens and learn unconventional strategies to potentially turn your crypto portfolio into a meme-sterpiece. From moonshot picks to navigating the wild seas of volatility, this book promises a rollercoaster ride through the crypto landscape like no other. Get ready to laugh, learn, and maybe even profit with “The Book of Jeet Tokens”!Introducing “The Book of Jeet Tokens: Unveiling the Secrets to 100X Crypto Gains!” Dive into this satirical yet insightful guide where memes meet investments. Discover the whimsical world of meme tokens and learn unconventional strategies to potentially turn your crypto portfolio into a meme-sterpiece. 
+                </p>
                  <p className="font-texts md:text-[20px]">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem veritatis doloremque incidunt 
-                  veniam vel cumque, cupiditate nulla labore placeat sunt soluta alias recusandae?
-                 </p>
+               From moonshot picks to navigating the wild seas of volatility, this book promises a rollercoaster ride through the crypto landscape like no other. Get ready to laugh, learn, and maybe even profit with “The Book of Jeet Tokens”!</p>
+                
+                
                  </div>
                  <div className="flex justify-center md:justify-start items-center">
                   <a href="" className='shadow-gray-800 shadow-sm bg-gradient-to-r from-purple-500 to-[#6fcfe7] my-3 p-4 rounded-xl font-head '>Join Community</a>
