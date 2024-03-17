@@ -33,21 +33,13 @@ function App() {
                   </div>
           </div>
           </section>
-          
-          <div className=''>
-          <marquee behavior="scroll" direction="right" className="absolute md:p-8  h-12 justify-center flex items-center bg-gradient-to-r from-purple-500 to-pink-500">
-            <span className='font-texts text-[15px]'>THE BOOK OF JEETS </span>
-            <span className='font-texts text-[15px]'>THE BOOK OF JEETS </span>
-          
-          </marquee>
-          </div>
-       
+         
       
           <section className="bg-[url('./assets/bg.png')] w-screen h-fit bg-cover">
-
+          <h1 className='font-head text-[25px] text-white p-8 text-center'>About</h1>
           {/* <h1 className='font-head text-[25px] text-white p-12' >About</h1>
              */}
-            <div className="grid grid-cols-1 md:grid-cols-2 place-items-center p-12 mt-3 md:p-24 space-y-8">
+            <div className="grid grid-cols-1 md:grid-cols-2 place-items-center p-12 md:p-24 space-y-8">
             
               <div>
                 <img src={book} className='w-60 md:w-96 rounded-xl shadow-sm' alt="" />
