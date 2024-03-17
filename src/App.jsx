@@ -120,7 +120,7 @@ function App() {
 </div>
       </section> */}
 
-      {/* <section className="bg-[url('./assets/bg-1.png')] w-screen h-fit bg-cover">
+      <section className="bg-[url('./assets/bg-1.png')] w-screen h-fit bg-cover">
         <div className="grid grid-cols-1 place-items-center gap-10 p-8">
             <div className="bg-gradient-to-r from-purple-500 to-blue-500 h-fit p-4 text-white backdrop-blur-md items-center flex flex-col
              shadow-lg text-center rounded-2xl  w-[400px] border border-blue-400">
@@ -134,7 +134,7 @@ function App() {
 
             
 </div>
-      </section> */}
+      </section>
 
       <footer className="bg-[url('./assets/bg-4.png')] w-screen h-fit bg-cover p-6 text-white">
         <div className="flex justify-center items-center">
