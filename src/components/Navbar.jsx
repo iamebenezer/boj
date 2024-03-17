@@ -17,7 +17,7 @@ function Navbar() {
                 <a href="#" className="text-white  rounded-md text-sm font-medium">Home</a>
                 <a href="#about" className="text-white  rounded-md text-sm font-medium">About</a>
                 <a href="#token" className="text-white  rounded-md text-sm font-medium">Tokenmoics</a>
-                <a href="#join" className="text-white  rounded-md text-sm font-medium">Tokenmoics</a>
+                <a href="#join" className="text-white  rounded-md text-sm font-medium">Join</a>
             
               </div>
             </div>

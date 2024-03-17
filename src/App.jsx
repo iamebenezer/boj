@@ -35,7 +35,7 @@ function App() {
           </section>
          
       
-          <section className="bg-[url('./assets/bg.png')] w-screen h-fit bg-cover">
+          <section className="bg-[url('./assets/bg.png')] w-screen h-fit bg-cover" id='about'>
           <div className='justify-center items-center flex'>
           <h1 className='font-head text-[25px] text-white p-8 text-center '>About</h1>
           </div>
@@ -65,7 +65,7 @@ function App() {
           <section className="bg-[url('./assets/bg-1.png')] w-screen md:h-fit h-screen bg-cover">
 
         
-<div className="grid grid-cols-1 place-items-center p-12 space-y-8">
+<div className="grid grid-cols-1 place-items-center p-12 space-y-8" id='token'>
 <h1 className='font-head text-[25px] text-white ' >Tokenomics</h1>
           <div className="grid grid-cols-1 md:grid-cols-3 place-items-center gap-10 md:p-12">
             <div className="bg-transparent p-4 text-white backdrop-blur-md justify-center items-center flex flex-col shadow-lg text-center rounded-2xl  w-80">
@@ -122,14 +122,14 @@ function App() {
 </div>
       </section> */}
 
-      <section className="bg-[url('./assets/bg-1.png')] w-screen h-fit bg-cover">
+      <section className="bg-[url('./assets/bg-1.png')] w-screen h-fit bg-cover" id='join'>
         <div className="grid grid-cols-1 place-items-center gap-10 p-8">
             <div className="bg-gradient-to-r from-purple-500 to-blue-500 h-fit p-4 text-white backdrop-blur-md items-center flex flex-col
              shadow-lg text-center rounded-2xl  w-96 border border-blue-400">
       
               <h1 className='font-head text-[20px]'>JOIN BOJ COMMUNITY</h1>
                 <p className='font-texts'>
-                Join the community to get sstarted
+                Join the community to get started
                 </p>
                 <a href="" className='bg-black  px-6 py-3 my-3 rounded-xl'>JOIN</a>
             </div>
