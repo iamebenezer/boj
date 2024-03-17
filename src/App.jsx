@@ -27,7 +27,7 @@ function App() {
 
                     <div className="flex space-x-8  text-white">
                     <FaTelegramPlane size={30} />
-                    <FaXTwitter size={30} />
+                 <a href="https://t.me/BookofJeetss">  <FaXTwitter size={30} /></a>
 
                     </div>
                   </div>
@@ -131,7 +131,7 @@ function App() {
                 <p className='font-texts'>
                 Join the community to get started
                 </p>
-                <a href="" className='bg-black  px-6 py-3 my-3 rounded-xl'>JOIN</a>
+                <a href="https://t.me/BookofJeetss" className='bg-black  px-6 py-3 my-3 rounded-xl'>JOIN</a>
             </div>
 
             
@@ -141,7 +141,7 @@ function App() {
       <footer className="bg-[url('./assets/bg-4.png')] w-screen h-fit bg-cover p-6 text-white">
         <div className="flex flex-col justify-center items-center">
             <div className='flex-row flex space-x-4 my-3'>
-            <FaTelegramPlane size={30} />
+           <a href="https://t.me/BookofJeetss"> <FaTelegramPlane size={30} /></a>
                     <FaXTwitter size={30} />
             </div>
         <p className='text-center font-texts'>Book of Jeets. All rights Reserved 2024</p>

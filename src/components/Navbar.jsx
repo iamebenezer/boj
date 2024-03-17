@@ -17,7 +17,7 @@ function Navbar() {
                 <a href="#" className="text-white  rounded-md text-sm font-medium">Home</a>
                 <a href="#about" className="text-white  rounded-md text-sm font-medium">About</a>
                 <a href="#token" className="text-white  rounded-md text-sm font-medium">Tokenmoics</a>
-                <a href="#join" className="text-white  rounded-md text-sm font-medium">Join</a>
+                <a href="https://t.me/BookofJeetss" className="text-white  rounded-md text-sm font-medium">Join</a>
             
               </div>
             </div>
@@ -51,7 +51,7 @@ function Navbar() {
               <a href="#" className="text-white hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Home</a>
               <a href="#about" className="text-white hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">About</a>
               <a href="#token" className="text-white hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Tokenomics</a>
-              <a href="#join" className="text-white hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Join</a>
+              <a href="https://t.me/BookofJeetss" className="text-white hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Join</a>
             </div>
           </div>
         )}
