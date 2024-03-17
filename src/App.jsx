@@ -26,8 +26,8 @@ function App() {
                     </div>
 
                     <div className="flex space-x-8  text-white">
-                    <FaTelegramPlane size={30} />
-                 <a href="https://t.me/BookofJeetss">  <FaXTwitter size={30} /></a>
+                    <a href="https://t.me/BookofJeetss">      <FaTelegramPlane size={30} /></a>
+                 <FaXTwitter size={30} />
 
                     </div>
                   </div>
@@ -131,7 +131,7 @@ function App() {
                 <p className='font-texts'>
                 Join the community to get started
                 </p>
-                <a href="https://t.me/BookofJeetss" className='bg-black  px-6 py-3 my-3 rounded-xl'>JOIN</a>
+                <a href="https://t.me/BookofJeetss`" className='bg-black  px-6 py-3 my-3 rounded-xl'>JOIN</a>
             </div>
 
             
