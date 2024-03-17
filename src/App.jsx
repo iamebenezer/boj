@@ -27,7 +27,7 @@ function App() {
 
                     <div className="flex space-x-8  text-white">
                     <a href="https://t.me/BookofJeetss">      <FaTelegramPlane size={30} /></a>
-                 <FaXTwitter size={30} />
+               <a href="https://x.com/bookofjeetsol?s=21">  <FaXTwitter size={30} /></a>
 
                     </div>
                   </div>
@@ -142,7 +142,7 @@ function App() {
         <div className="flex flex-col justify-center items-center">
             <div className='flex-row flex space-x-4 my-3'>
            <a href="https://t.me/BookofJeetss"> <FaTelegramPlane size={30} /></a>
-                    <FaXTwitter size={30} />
+               <a href="https://x.com/bookofjeetsol?s=21">     <FaXTwitter size={30} /></a>
             </div>
         <p className='text-center font-texts'>Book of Jeets. All rights Reserved 2024</p>
         </div>
