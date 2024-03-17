@@ -49,7 +49,7 @@ function App() {
               <div className=''>
               <div className='bg-white h-fit md:text-start text-center p-4 rounded-lg shadow-gray-800 shadow-sm'>
                 <p className='font-texts md:text-[20px]'>Introducing “The Book of Jeet Tokens: Unveiling the Secrets to 100X Crypto Gains!” Dive into this satirical yet insightful guide where memes meet investments. Discover the whimsical world of meme tokens and learn unconventional strategies to potentially turn your crypto portfolio into a meme-sterpiece. From moonshot picks to navigating the wild seas of volatility, this book promises a rollercoaster ride through the crypto landscape like no other. Get ready to laugh, learn, and maybe even profit with “The Book of Jeet Tokens”!Introducing “The Book of Jeet Tokens: Unveiling the Secrets to 100X Crypto Gains!” Dive into this satirical yet insightful guide where memes meet investments. Discover the whimsical world of meme tokens and learn unconventional strategies to potentially turn your crypto portfolio into a meme-sterpiece. 
-                </p>
+                </p> <br />
                  <p className="font-texts md:text-[20px]">
                From moonshot picks to navigating the wild seas of volatility, this book promises a rollercoaster ride through the crypto landscape like no other. Get ready to laugh, learn, and maybe even profit with “The Book of Jeet Tokens”!</p>
                 
@@ -129,7 +129,7 @@ function App() {
       
               <h1 className='font-head text-[20px]'>JOIN BOJ COMMUNITY</h1>
                 <p className='font-texts'>
-                  Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                Join the community to get sstarted
                 </p>
                 <a href="" className='bg-black  px-6 py-3 my-3 rounded-xl'>JOIN</a>
             </div>
