@@ -92,7 +92,7 @@ function App() {
 
 
 </section>
-        <section className="bg-[url('./assets/bg-1.png')] w-screen h-fit bg-cover">
+        {/* <section className="bg-[url('./assets/bg-1.png')] w-screen h-fit bg-cover">
         <h1 className='font-head text-[25px] text-white p-8 text-center'>Roadmap</h1>
 
           <div className="grid grid-cols-1 md:grid-cols-3 p-12 place-items-center gap-10">
@@ -118,7 +118,7 @@ function App() {
         
           </div>
 </div>
-      </section>
+      </section> */}
 
       {/* <section className="bg-[url('./assets/bg-1.png')] w-screen h-fit bg-cover">
         <div className="grid grid-cols-1 place-items-center gap-10 p-8">
