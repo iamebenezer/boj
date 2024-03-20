@@ -58,7 +58,7 @@ function App() {
                 
                  </div>
                  <div className="flex justify-center md:justify-start items-center">
-                  <a href="" className='shadow-gray-800 shadow-sm bg-gradient-to-r from-purple-500 to-[#6fcfe7] my-3 p-4 rounded-xl font-head '>Join Community</a>
+                  <a href="https://t.me/BookofJeetss" className='shadow-gray-800 shadow-sm bg-gradient-to-r from-purple-500 to-[#6fcfe7] my-3 p-4 rounded-xl font-head '>Join Community</a>
                  </div>
               </div>
             </div>
