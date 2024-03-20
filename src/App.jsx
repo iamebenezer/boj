@@ -27,7 +27,7 @@ function App() {
 
                     <div className="flex space-x-8  text-white">
                     <a href="https://t.me/BookofJeetss">      <FaTelegramPlane size={30} /></a>
-               <a href="https://x.com/bookofjeetsol?s=21">  <FaXTwitter size={30} /></a>
+               <a href="https://x.com/bookofjeetsol">  <FaXTwitter size={30} /></a>
 
                     </div>
                   </div>
@@ -48,11 +48,13 @@ function App() {
               </div>
               <div className=''>
               <div className='bg-white h-fit md:text-start text-center p-4 rounded-lg shadow-gray-800 shadow-sm'>
-                <p className='font-texts md:text-[20px]'>Introducing “The Book of Jeet Tokens: Unveiling the Secrets to 100X Crypto Gains!” Dive into this satirical yet insightful guide where memes meet investments. Discover the whimsical world of meme tokens and learn unconventional strategies to potentially turn your crypto portfolio into a meme-sterpiece. From moonshot picks to navigating the wild seas of volatility, this book promises a rollercoaster ride through the crypto landscape like no other. Get ready to laugh, learn, and maybe even profit with “The Book of Jeet Tokens”!Introducing “The Book of Jeet Tokens: Unveiling the Secrets to 100X Crypto Gains!” Dive into this satirical yet insightful guide where memes meet investments. Discover the whimsical world of meme tokens and learn unconventional strategies to potentially turn your crypto portfolio into a meme-sterpiece. 
+                <p className='font-texts md:text-[20px]'>Book of Jeets is a Community Own Project inspired by $BOME early sellers $BOJE 
                 </p> <br />
                  <p className="font-texts md:text-[20px]">
-               From moonshot picks to navigating the wild seas of volatility, this book promises a rollercoaster ride through the crypto landscape like no other. Get ready to laugh, learn, and maybe even profit with “The Book of Jeet Tokens”!</p>
-                
+              $BOJE is key on creating a new era of Trend and Second Opportunity to Make Life Changing Gains x10000
+                <br />
+
+                </p>
                 
                  </div>
                  <div className="flex justify-center md:justify-start items-center">
@@ -127,7 +129,7 @@ function App() {
             <div className="bg-gradient-to-r from-purple-500 to-blue-500 h-fit p-4 text-white backdrop-blur-md items-center flex flex-col
              shadow-lg text-center rounded-2xl  w-96 border border-blue-400">
       
-              <h1 className='font-head text-[20px]'>JOIN BOJ COMMUNITY</h1>
+              <h1 className='font-head text-[20px]'>JOIN BOJE COMMUNITY</h1>
                 <p className='font-texts'>
                 Join the community to get started
                 </p>
@@ -142,7 +144,7 @@ function App() {
         <div className="flex flex-col justify-center items-center">
             <div className='flex-row flex space-x-4 my-3'>
            <a href="https://t.me/BookofJeetss"> <FaTelegramPlane size={30} /></a>
-               <a href="https://x.com/bookofjeetsol?s=21">     <FaXTwitter size={30} /></a>
+               <a href="https://x.com/bookofjeetsol">     <FaXTwitter size={30} /></a>
             </div>
         <p className='text-center font-texts'>Book of Jeets. All rights Reserved 2024</p>
         </div>
