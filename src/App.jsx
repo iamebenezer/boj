@@ -19,7 +19,7 @@ function App() {
                       <img src={logo} className='floating md:w-96' alt="" />
                     </div>
                     <div className='text-white text-center'>
-                  <h1 className='font-head text-[25px]'>WELCOME TO BOOK OF <span className='text-purple-400 blink'>JEETS</span></h1>
+                  <h1 className='font-head text-[25px]'>WELCOME TO BOOK OF <span className='text-purple-400 blink'>JEET</span></h1>
                     </div>
                     <div className='text-white shadow-lg backdrop-blur-2xl p-6 rounded-3xl text-center'>
                       <p className='font-texts text-[18px]'>The next book that will give you the knowledge of 100X</p>
@@ -48,7 +48,7 @@ function App() {
               </div>
               <div className=''>
               <div className='bg-white h-fit md:text-start text-center p-4 rounded-lg shadow-gray-800 shadow-sm'>
-                <p className='font-texts md:text-[20px]'>Book of Jeets is a Community Own Project inspired by $BOME early sellers $BOJE 
+                <p className='font-texts md:text-[20px]'>Book of Jeet is a Community Own Project inspired by $BOME early sellers $BOJE 
                 </p> <br />
                  <p className="font-texts md:text-[20px]">
               $BOJE is key on creating a new era of Trend and Second Opportunity to Make Life Changing Gains x10000
