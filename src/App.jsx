@@ -4,7 +4,7 @@ import logo from './assets/main-logo.png'
 import { FaTelegramPlane } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 import book from './assets/boj.png'
-
+import Timer from './components/Timer';
 import { IoBriefcase } from "react-icons/io5";
 function App() {
 
@@ -30,6 +30,7 @@ function App() {
                <a href="https://x.com/bookofjeetsol">  <FaXTwitter size={30} /></a>
 
                     </div>
+                    <Timer/>
                   </div>
           </div>
           </section>
@@ -135,7 +136,7 @@ function App() {
                 </p>
                 <a href="https://t.me/BookofJeetss`" className='bg-black  px-6 py-3 my-3 rounded-xl'>JOIN</a>
             </div>
-
+            <Timer />
             
 </div>
       </section>
