@@ -70,8 +70,14 @@ function App() {
         
 <div className="grid grid-cols-1 place-items-center p-12 space-y-8" id='token'>
 <h1 className='font-head text-[25px] text-white ' >Tokenomics</h1>
-          <div className="grid grid-cols-1 md:grid-cols-3 place-items-center gap-10 md:p-12">
+          <div className="grid grid-cols-1 md:grid-cols-1 place-items-center gap-10 md:p-12">
             <div className="bg-transparent p-4 text-white backdrop-blur-md justify-center items-center flex flex-col shadow-lg text-center rounded-2xl  w-80">
+            <IoBriefcase size={40} className='text-white p-1 rounded-lg bg-gradient-to-r from-purple-500 to-blue-500' />
+              <h1 className='font-head text-[20px]'>1,000,000</h1>
+              <span className='font-texts'>TOTAL SUPPLY</span>
+            </div>
+
+            {/* <div className="bg-transparent p-4 text-white backdrop-blur-md justify-center items-center flex flex-col shadow-lg text-center rounded-2xl  w-80">
             <IoBriefcase size={40} className='text-white p-1 rounded-lg bg-gradient-to-r from-purple-500 to-blue-500' />
               <h1 className='font-head text-[20px]'>1,000,000</h1>
               <span className='font-texts'>TOTAL SUPPLY</span>
@@ -81,13 +87,7 @@ function App() {
             <IoBriefcase size={40} className='text-white p-1 rounded-lg bg-gradient-to-r from-purple-500 to-blue-500' />
               <h1 className='font-head text-[20px]'>1,000,000</h1>
               <span className='font-texts'>TOTAL SUPPLY</span>
-            </div>
-
-            <div className="bg-transparent p-4 text-white backdrop-blur-md justify-center items-center flex flex-col shadow-lg text-center rounded-2xl  w-80">
-            <IoBriefcase size={40} className='text-white p-1 rounded-lg bg-gradient-to-r from-purple-500 to-blue-500' />
-              <h1 className='font-head text-[20px]'>1,000,000</h1>
-              <span className='font-texts'>TOTAL SUPPLY</span>
-            </div>
+            </div> */}
               
           </div>
           <div className='flex justify-center items-center text-white font-texts'>
