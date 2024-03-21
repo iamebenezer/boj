@@ -9,7 +9,7 @@ function Timer() {
     const interval = setInterval(() => {
       const now = new Date();
       const targetTime = new Date(now);
-      targetTime.setUTCHours(20, 0, 0, 0); // Set target time to 8 PM UTC
+      targetTime.setUTCHours(21, 0, 0, 0); // Set target time to 9 PM UTC
       const difference = targetTime - now;
       setTimeLeft(difference);
     }, 1000);
@@ -28,9 +28,8 @@ function Timer() {
   };
 
   return (
-    <div className="flex flex-col justify-center items-center text-white">
-        <div className='font-head'>Launch: 8PM UTC </div>
-      <div className="text-4xl font-bold font-head">{formatTime(timeLeft)}</div>
+    <div className="flex justify-center items-center h-screen">
+      <div className="text-4xl font-bold">{formatTime(timeLeft)}</div>
     </div>
   );
 }
