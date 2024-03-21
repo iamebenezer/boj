@@ -146,7 +146,7 @@ function App() {
            <a href="https://t.me/BookofJeetss"> <FaTelegramPlane size={30} /></a>
                <a href="https://x.com/bookofjeetsol">     <FaXTwitter size={30} /></a>
             </div>
-        <p className='text-center font-texts'>Book of Jeets. All rights Reserved 2024</p>
+        <p className='text-center font-texts'>Book of Jeet. All rights Reserved 2024</p>
         </div>
       </footer>
     </>
