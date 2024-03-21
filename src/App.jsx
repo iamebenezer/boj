@@ -11,7 +11,7 @@ function App() {
  
   return (
     <>
-          <section className="bg-[url('./assets/bg-1.png')] w-screen h-screen bg-cover ">
+          <section className="bg-[url('./assets/bg-1.png')] w-screen  h-fit md:h-screen bg-cover ">
             <Navbar/>
               <div className='flex justify-center items-center p-12 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 '>
                   <div className="space-y-5 flex justify-center items-center flex-col">
