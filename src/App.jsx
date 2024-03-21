@@ -91,7 +91,9 @@ function App() {
               
           </div>
           <div className='flex justify-center items-center text-white font-texts'>
-                  <h1>CA: TBA</h1>
+                  <h1 className='text-center'>CA: 
+                  <br />
+                  DV8qDf7buCYtaKfrR2pbbof9UcRSPAzr<br/>KoBPFxVG7EXT</h1>
                 </div>
 </div>
 
