@@ -28,8 +28,9 @@ function Timer() {
   };
 
   return (
-    <div className="flex justify-center items-center h-screen">
-      <div className="text-4xl font-bold">{formatTime(timeLeft)}</div>
+    <div className="flex flex-col justify-center items-center text-white">
+        <div className='font-head'>Launch: 9pm UTC </div> 
+      <div className="text-4xl font-bold font-head">{formatTime(timeLeft)}</div>
     </div>
   );
 }
